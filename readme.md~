@@ -1,0 +1,11 @@
+Project Name:
+Data Visualization in IoT
+
+Team Members:
+1. Pankaj Kumar (173050052)
+2. Avais Ahmad 	(173050043)
+
+
+Project Description:
+Data visualization framework or a dashboard framework for IoT which is a pluggable solution and a very general solution for all data visualization problems. It will give user the ability to add,delete,resize,drag and grouping widget containers together.
+The widgets will give various methods for data visualization like text, gauge, line, map, battery etc. Main goal is to make complicated data understandable visually. User can add various data source like JSON, Device Shadow, DynamoDB, Websocket 

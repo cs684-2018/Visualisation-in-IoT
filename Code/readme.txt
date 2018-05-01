@@ -1,0 +1,62 @@
+2018 - CS684  Visualization in Iot
+================================================ 
+ 
+Group Info: 
+------------ 
++   Avais Ahmad (173050043) 
++   Pankaj Kumar (173050052) 
+ 
+Extension Of 
+------------ 
+ 
+<Projeect is built from scratch>  
+ 
+Project Description 
+------------------- 
+
+It is a Data Visualization Dashboard for IoT framework. It have a interactive dashboard that support drag and drop of widgets. It supports addition of various data sources and multiple widgets.
+
+ 
+Technologies Used 
+------------------- 
+ 
++   Vue.js
++   ESP8266
++   DHT22
+
+
+Installation Instructions 
+========================= 
+ 
+#insatall vue-cli globally
+npm install -g vue-cli
+
+#Create new project with webpack template
+vue init webpack myapp
+
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report  
+ 
+ 
+Demonstration Video 
+=========================  
+https://youtu.be/_F2nz20yqBA
+
+
+References 
+=========== 
+  
+ 
++ [Vue.js](https://vuejs.org/v2/guide/) 
++ [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) 
++ [Connecting ESP8266 with AWS IoT](https://github.com/sanamshakya/interfacing-AWS-IoT/wiki/Connecting-ESP8266-with-AWS-IoT)
+

@@ -1,0 +1,68 @@
+						
+body{
+	background: rgba(0,0,0,.9);	
+}
+
+#main_head{
+	border: 2px solid white;
+	padding :0px 15px 0px 40px;
+	font:25px bold Tahoma;
+	color: white;
+	margin-bottom: 40px;
+}
+#static_part{
+	
+	margin-bottom: 50px; 
+}
+#modal_box{
+	padding: 10px;
+background-color: rgba(0,0,0,.5);
+}
+
+#form {
+    
+    height: 600px;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    text-align:center;
+}
+label {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: white;
+    height: 20px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
+input {
+    height: 20px;
+    line-height: 10px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 15px;
+    float: left;
+}
+input[type=button] {
+    float:none;
+}
+select {
+    height: 20px;
+    line-height: 10px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 15px;
+    float: left;
+}
+select[type=button] {
+    float:none;
+}
